@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://githubcard.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://githubcard.com/brand/githubcard-lockup-white.svg">
+      <img src="https://githubcard.com/brand/githubcard-lockup.svg" alt="GitHubCard" height="48">
+    </picture>
+  </a>
+</p>
+
 ### GitHub profile and repository cards, made for READMEs
 
 [GitHubCard](https://githubcard.com) turns any GitHub user or repository into a card image with live data: stars, languages, contributions, contributors. Embed it in a profile README, use it as a social preview, or share it as a link.
@@ -10,7 +19,7 @@
 **Or from your terminal, CI, or AI agent:**
 
 ```bash
-npx -y ghcard card <your-username> --readme README.md
+npx -y @ghcardhq/ghcard create <your-username> --readme README.md
 ```
 
 | Repository | What it is |
