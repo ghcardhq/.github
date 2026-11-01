@@ -2,8 +2,8 @@
 
 [GitHubCard](https://githubcard.com) turns any GitHub user or repository into a card image with live data: stars, languages, contributions, contributors. Embed it in a profile README, use it as a social preview, or share it as a link.
 
-<a href="https://githubcard.com/~profile-card"><img src="https://githubcard.com/showcase/profile/Mabbs-1200-630-card.webp" alt="Profile card example" width="49%"></a>
-<a href="https://githubcard.com/~repo-card"><img src="https://githubcard.com/showcase/repo/astral-sh-uv-1200-630.webp" alt="Repository card example for astral-sh/uv" width="49%"></a>
+<a href="https://githubcard.com/~profile-card"><img src="profile/assets/profile-card-example.png" alt="Profile card example for torvalds" width="49%"></a>
+<a href="https://githubcard.com/~repo-card"><img src="profile/assets/repo-card-example.png" alt="Repository card example for Cactusinhand/filter-repo-rs" width="49%"></a>
 
 **Make one in the browser:** [githubcard.com](https://githubcard.com), with templates and a drag-and-drop editor.
 
