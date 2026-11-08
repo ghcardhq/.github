@@ -10,8 +10,13 @@
 **Or from your terminal, CI, or AI agent:**
 
 ```bash
-npx -y ghcard card <your-username> --readme README.md
+export GHCARD_API_KEY=ghc_live_...
+npx -y @ghcardhq/ghcard create <your-username> --readme README.md
 ```
+
+Create a key in the [GitHubCard dashboard](https://githubcard.com/dashboard), or see the
+[CLI README](https://github.com/ghcardhq/ghcard#readme) for the Node.js 20+ requirement,
+local login, and CI setup.
 
 | Repository | What it is |
 | --- | --- |

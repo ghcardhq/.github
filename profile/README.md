@@ -22,6 +22,10 @@
 npx -y @ghcardhq/ghcard create <your-username> --readme README.md
 ```
 
+The CLI needs Node.js 20+ and a free API key from the
+[GitHubCard dashboard](https://githubcard.com/dashboard). See the
+[CLI README](https://github.com/ghcardhq/ghcard#readme) for local login and CI setup.
+
 | Repository | What it is |
 | --- | --- |
 | [ghcard](https://github.com/ghcardhq/ghcard) | CLI for scripts and CI, with a local MCP server |
